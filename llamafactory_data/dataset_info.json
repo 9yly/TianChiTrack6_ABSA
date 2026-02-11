@@ -1,0 +1,30 @@
+{
+  "ecommerce_aspect_extraction": {
+    "file_name": "ecommerce_aspect_instruction.json",
+    "file_sha1": "",
+    "formatting": "alpaca",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    },
+    "tags": {
+      "task": "aspect-based sentiment analysis",
+      "domain": "e-commerce",
+      "language": "zh"
+    }
+  },
+  "ecommerce_aspect_extraction_chat": {
+    "file_name": "ecommerce_aspect_conversation.json",
+    "file_sha1": "",
+    "formatting": "chatml",
+    "columns": {
+      "messages": "conversations"
+    },
+    "tags": {
+      "task": "aspect-based sentiment analysis",
+      "domain": "e-commerce",
+      "language": "zh"
+    }
+  }
+}

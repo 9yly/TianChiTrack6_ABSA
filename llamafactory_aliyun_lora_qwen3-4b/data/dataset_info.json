@@ -1,0 +1,14 @@
+{
+  "tianchi6_train": {
+    "file_name": "train.json"
+  },
+  "tianchi6_eval": {
+    "file_name": "eval.json"
+  },
+  "tianchi6_test": {
+    "file_name": "test_separate.json"
+  },
+  "tianchi6_train_msgs": {
+    "file_name": "cot_train_output/train_llamafactory_format.json"
+  }
+}
